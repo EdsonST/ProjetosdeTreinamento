@@ -1,30 +1,25 @@
-# Cardápio Digital 
-Este é um cardápio digital. Elaborado para estudo e práticas básicas em HTML e CSS
+# Portifólio de Projetos Pessoais
+Bem-vindo ao meu repositório de projetos pessoais! Aqui você encontrará uma coleção de projetos que desenvolvi para aprendizado, experimentação e aperfeiçoamento de habilidades.
 
 # Descrição 
-Um cardápio digital interativo para restaurante, acessível via QR code nas mesas, apresentando pratos com descrições e valores.
+Este repositório contém uma coleção de meus projetos pessoais, desenvolvidos para aprimorar minhas habilidades em programação e explorar novas tecnologias. Cada projeto aborda diferentes áreas de interesse, como desenvolvimento web, análise de dados, automação e aprendizado de máquina.
 
-# FAQ
-* O que a aplicação faz ?
-Apresenta os pratos e preços fictícios de um restaurante japones.
+A estrutura do repositório é organizada em subpastas, cada uma dedicada a um projeto específico. Dentro de cada pasta, você encontrará o código-fonte, documentação detalhada, e, quando aplicável, exemplos de uso e instruções de configuração. Os projetos foram desenvolvidos utilizando diversas linguagens e frameworks, incluindo HTML, CSS, JavaScript, Python, e bibliotecas associadas.
 
-* Quais e por que foram utilizadas as tecnologias que estão no projeto ?
-HTML e CSS são as principais ferramentas de desenvolvimento tanto front como backend, para inicialização dos estudos.
+# Estrutura do Repositório
+* projeto1 Cardápio Digital
 
-* Quais foram os desafios enfrentados e os recursos que se espera implementar no futuro.
-Por ser o primeiro projeto a pouca familiaridade com as linguagens foi o maior obstáculo, e pretento implementar mais interatividade nos próximos projetos.
+Descrição: Um cardápio digital interativo para restaurante, acessível via QR code nas mesas, apresentando pratos com descrições e preços
+Tecnologias utilizadas: HTML e CSS
+Instruções para execução: clique duas vezes no arquivo "indexMenu.html".
 
-# Estrutura do Projeto
 
-* indexMenu.html
-Página principal do cardápio digital.
-* style.css
-Arquivo de estilo com a formatação do cardápio.
-* imagens
-Pasta contendo as imagens do projeto.
+# Como Clonar o Repositório
+* Para clonar este repositório em sua máquina local, use o seguinte comando:
+git clone https://github.com/EdsonST/Projetos.git
 
-# Clone o Repositório:
-git clone //github.com/EdsonST/Projetos/tree/main/cardapioDigital
+# Contato
+Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo através do meu email.
 
 # Créditos
 FreeCodeCamp https://www.freecodecamp.org/
