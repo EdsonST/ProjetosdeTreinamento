@@ -23,5 +23,6 @@ Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em c
 
 # Créditos
 FreeCodeCamp https://www.freecodecamp.org/
+Dankie Code https://cursos.dankicode.com/
 
 Essa é apenas uma forma de mostrar gratidão e também de ajudar outras pessoas a obter conhecimento.
