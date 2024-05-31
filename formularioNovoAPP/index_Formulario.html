@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Meu Novo APP</title>
+</head>
+<body>
+    <h1 id="titulo">Formulário de Sugestão para Criação de Aplicativo</h1>
+    <p id="descricao>Sua opinião é importante para nós! Preencha este formulário com suas ideias e sugestões para o desenvolvimento de um novo aplicativo. Queremos criar soluções inovadoras que atendam às suas necessidades. Obrigado por contribuir!</p>
+    <form id="survey-form" method="post" action="http://url.register.com">
+        <fieldset>
+            <legend>Informações Básicas</legend>
+            <label for="nome" >Informe seu Nome Completo: <input required id="nome" type="text" name="nome" /></label>
+            <label for="email" >Informe seu E-mail: <input id="email" type="email" name="email" /></label>
+            <label for="telefone">Informe seu Telefone: <input id="telefone" type="number" min="11111111111" max="99999999999" name="telefone"/></label>
+            <label for="senha">Crie uma Senha de Acesso: <input id="senha" type="password" pattern="[a-z0-5]{8,}" name="senha"/></label>
+        </fieldset>
+        <fieldset>
+            <legend>Descreva sua Ideia</legend>
+            <label for="sugestao-nome">Sugira um Nome: <input id="sugestao-nome" type="text" name="sugestao-nome"/ ></label>
+            <label for="proposito">
+                <textarea id="proposito" placeholder="Qual o Propósito deste aplicativo ?" rows="3" cols="35" name="proposito"></textarea>
+            </label>
+        </fieldset>
+        <fieldset>
+            <legend>Público Alvo</legend>
+            <label for="criancas"><input id="criancas" type="checkbox" name="criancas" class="inline"/> Crianças entre 3 á 6 anos de idade</label>
+            <label for="adolecentes"><input id="adolecentes" type="checkbox" name="adolecentes" class="inline"/> Adolecentes entre 7 á 17 anos de idade</label>
+            <label for="jovens"><input id="jovens" type="checkbox" name="jovens" class="inline"/> Jovens entre 18 á 25 anos de idade</label>
+            <label for="adultos"><input id="adultos" type="checkbox" name="adultos" class="inline"/> Adultos entre 25 á 59 anos de idade</label>
+            <label for="idosos"><input id="idosos" type="checkbox" name="idosos" class="inline"/> Idosos acima de 60 anos de idade</label>
+        </fieldset>
+        <fieldset>
+            <legend>Tecnologias</legend>
+            <select id="tecnologias" name="tecnologias">
+                <option value="">Selecione uma Opção</option>
+                <option value="1">Android</option>
+                <option value="2">iOS</option>
+                <option value="3">Híbrido</option>
+                <option value="4">Somente versão Web</option>
+            </select>
+        </fieldset>
+        <fieldset>
+            <legend>Termos e Condições</legend>
+            <label for="termos"><input required id="termos" type="radio" name="termos" class="inline"/> Autorizo o uso das informações fornecidas neste formulário para o desenvolvimento de um novo aplicativo.</label>
+            <label for="condicoes"><input required id="condicoes" type="radio" name="condicoes" class="inline"/> Entendo que esta sugestão não garante a criação do aplicativo.</label>
+        </fieldset>
+        <input value="Submit" type="submit" />
+    </form>
+</body>
+</html>
