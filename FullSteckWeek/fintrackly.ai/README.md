@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Portfólio de Projetos Pessoais
+Bem-vindo ao meu repositório de projetos pessoais! Aqui você encontrará uma coleção de projetos que desenvolvi para aprendizado, experimentação e aperfeiçoamento de habilidades em diferentes áreas de desenvolvimento.
 
-## Getting Started
+## Descrição
+Este repositório contém uma variedade de projetos criados para aprimorar minhas habilidades em programação e explorar novas tecnologias. Cada projeto abrange uma área específica de interesse, como desenvolvimento web, análise de dados, automação e aprendizado de máquina. A estrutura do repositório é organizada em subpastas, com cada pasta dedicada a um projeto específico. Dentro de cada pasta, você encontrará o código-fonte, documentação detalhada e, quando aplicável, exemplos de uso e instruções de configuração.
 
-First, run the development server:
+## Visão Geral dos Projetos
+- **Análise de Dados com Python**: Projeto focado na coleta e análise de dados financeiros usando Pandas e Matplotlib.
+- **Aplicação Web com Flask**: Aplicação para gerenciamento de tarefas, desenvolvida com Flask e Bootstrap.
+- **Machine Learning com Scikit-Learn**: Sistema básico de recomendação de filmes utilizando algoritmos de aprendizado de máquina.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Estrutura do Repositório
+| Projeto                    | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **Digital Innovation One** | Projetos realizados durante os Bootcamps, separados por cada Bootcamp.    |
+| **FreeCodeCamp**           | Projetos de treinamento desenvolvidos durante cursos da plataforma.       |
+| **Dankie Code**            | Exercícios práticos realizados nos cursos da Dankie Code.                 |
+| **MIMO**                   | Projetos de treinamento desenvolvidos no app MIMO.                        |
+| **Full Stack Week**        | Projeto de aplicação SaaS desenvolvido durante a Full Stack Week.         |
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tecnologias Utilizadas
+- **Linguagens**: Python, JavaScript, HTML, CSS
+- **Frameworks**: Flask, Django
+- **Bibliotecas**: Pandas, NumPy, Matplotlib
+- **Ferramentas de Desenvolvimento**: Git, GitHub, VSCode
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Como Clonar o Repositório
+Para clonar este repositório em sua máquina local, siga estas etapas:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. No repositório, clique no botão **"Code"**.
+2. Escolha a opção **HTTPS**, **SSH** ou **GitHub CLI**.
+3. Copie o link fornecido.
 
-## Learn More
+No terminal (Windows, Mac ou Linux), execute o comando:
 
-To learn more about Next.js, take a look at the following resources:
+*bash
+git clone https://github.com/EdsonST/Projetos
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Como Contribuir
+Se você tiver ideias para melhorar este projeto ou deseja contribuir com código, fique à vontade para fazer um fork do repositório e enviar um pull request. Toda contribuição é bem-vinda!
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Contato
+Para dúvidas ou sugestões, entre em contato:
+- **Email**: edson.st@outlook.com
+- **LinkedIn**: [Edson Santos](https://www.linkedin.com/in/edson-santos-a92683105/)
 
-## Deploy on Vercel
+## Créditos
+Agradeço às plataformas abaixo pelos conteúdos que foram essenciais para meu aprendizado:
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [Dankie Code](https://cursos.dankicode.com/)
+- [DIO](https://www.dio.me/)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Essa é apenas uma forma de mostrar gratidão e também de ajudar outras pessoas a obter conhecimento.
