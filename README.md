@@ -1,40 +1,53 @@
-# Portifólio de Projetos Pessoais
-Bem-vindo ao meu repositório de projetos pessoais! Aqui você encontrará uma coleção de projetos que desenvolvi para aprendizado, experimentação e aperfeiçoamento de habilidades.
+# Portfólio de Projetos Pessoais
+Bem-vindo ao meu repositório de projetos pessoais! Aqui você encontrará uma coleção de projetos que desenvolvi para aprendizado, experimentação e aperfeiçoamento de habilidades em diferentes áreas de desenvolvimento.
 
-# Descrição 
-Este repositório contém uma coleção de meus projetos pessoais, desenvolvidos para aprimorar minhas habilidades em programação e explorar novas tecnologias. Cada projeto aborda diferentes áreas de interesse, como desenvolvimento web, análise de dados, automação e aprendizado de máquina.
+## Descrição
+Este repositório contém uma variedade de projetos criados para aprimorar minhas habilidades em programação e explorar novas tecnologias. Cada projeto abrange uma área específica de interesse, como desenvolvimento web, análise de dados, automação e aprendizado de máquina. A estrutura do repositório é organizada em subpastas, com cada pasta dedicada a um projeto específico. Dentro de cada pasta, você encontrará o código-fonte, documentação detalhada e, quando aplicável, exemplos de uso e instruções de configuração.
 
-A estrutura do repositório é organizada em subpastas, cada uma dedicada a um projeto específico. Dentro de cada pasta, você encontrará o código-fonte, documentação detalhada, e, quando aplicável, exemplos de uso e instruções de configuração. Os projetos foram desenvolvidos utilizando diversas linguagens e frameworks, incluindo HTML, CSS, JavaScript, Python, e bibliotecas associadas.
+## Visão Geral dos Projetos
+- **Análise de Dados com Python**: Projeto focado na coleta e análise de dados financeiros usando Pandas e Matplotlib.
+- **Aplicação Web com Flask**: Aplicação para gerenciamento de tarefas, desenvolvida com Flask e Bootstrap.
+- **Machine Learning com Scikit-Learn**: Sistema básico de recomendação de filmes utilizando algoritmos de aprendizado de máquina.
 
-# Estrutura do Repositório
-* Digital Innovation One
-  - Projetos realizados durante os Bootcamps, separados por pasta de cada BootCamp realizado.
-* Free Code Camp
-  - Projetos de treinamento dos cursos de formações da plataforma.
-* Dankie Code
-  - Projetos de treinamento dos cursos de formações da plataforma.
-* MIMO
-  - Projetos de treinamento dos cursos de formações do app.
-* Full Steck Week
-  - Projeto de aplicação SAS
+## Estrutura do Repositório
+| Projeto                    | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **Digital Innovation One** | Projetos realizados durante os Bootcamps, separados por cada Bootcamp.    |
+| **FreeCodeCamp**           | Projetos de treinamento desenvolvidos durante cursos da plataforma.       |
+| **Dankie Code**            | Exercícios práticos realizados nos cursos da Dankie Code.                 |
+| **MIMO**                   | Projetos de treinamento desenvolvidos no app MIMO.                        |
+| **Full Stack Week**        | Projeto de aplicação SaaS desenvolvido durante a Full Stack Week.         |
 
-# Como Clonar o Repositório
-* Para clonar este repositório em sua máquina local:
-  - No repositório, clique no botão "Code" (geralmente em verde).
-  - Escolha a opção HTTPS, SSH ou GitHub CLI.
-  - Clique em copiar ao lado do link.
-* Abra o terminal (no Windows, Mac ou Linux).  
-* Use o comando git clone:
-  - git clone https://github.com/EdsonST/Projetos
+## Tecnologias Utilizadas
+- **Linguagens**: Python, JavaScript, HTML, CSS
+- **Frameworks**: Flask, Django
+- **Bibliotecas**: Pandas, NumPy, Matplotlib
+- **Ferramentas de Desenvolvimento**: Git, GitHub, VSCode
 
-Pronto! Agora você terá uma cópia local do repositório e poderá fazer alterações ou visualizar os arquivos.
+## Como Clonar o Repositório
+Para clonar este repositório em sua máquina local, siga estas etapas:
 
-# Contato
-Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo através do meu email.
+1. No repositório, clique no botão **"Code"**.
+2. Escolha a opção **HTTPS**, **SSH** ou **GitHub CLI**.
+3. Copie o link fornecido.
 
-# Créditos
-FreeCodeCamp https://www.freecodecamp.org/
-Dankie Code https://cursos.dankicode.com/
-DIO https://www.dio.me/
+No terminal (Windows, Mac ou Linux), execute o comando:
+
+*bash
+git clone https://github.com/EdsonST/Projetos
+
+## Como Contribuir
+Se você tiver ideias para melhorar este projeto ou deseja contribuir com código, fique à vontade para fazer um fork do repositório e enviar um pull request. Toda contribuição é bem-vinda!
+
+## Contato
+Para dúvidas ou sugestões, entre em contato:
+- **Email**: edson.st@outlook.com
+- **LinkedIn**: [Edson Santos](https://www.linkedin.com/in/edson-santos-a92683105/)
+
+## Créditos
+Agradeço às plataformas abaixo pelos conteúdos que foram essenciais para meu aprendizado:
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [Dankie Code](https://cursos.dankicode.com/)
+- [DIO](https://www.dio.me/)
 
 Essa é apenas uma forma de mostrar gratidão e também de ajudar outras pessoas a obter conhecimento.
