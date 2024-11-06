@@ -7,11 +7,7 @@ Este repositório contém uma coleção de meus projetos pessoais, desenvolvidos
 A estrutura do repositório é organizada em subpastas, cada uma dedicada a um projeto específico. Dentro de cada pasta, você encontrará o código-fonte, documentação detalhada, e, quando aplicável, exemplos de uso e instruções de configuração. Os projetos foram desenvolvidos utilizando diversas linguagens e frameworks, incluindo HTML, CSS, JavaScript, Python, e bibliotecas associadas.
 
 # Estrutura do Repositório
-* projeto1 Cardápio Digital
-
-Descrição: Um cardápio digital interativo para restaurante, acessível via QR code nas mesas, apresentando pratos com descrições e preços
-Tecnologias utilizadas: HTML e CSS
-Instruções para execução: clique duas vezes no arquivo "indexMenu.html".
+* Projeto Cardápio Digital
 
 
 # Como Clonar o Repositório
