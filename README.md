@@ -19,8 +19,15 @@ A estrutura do repositório é organizada em subpastas, cada uma dedicada a um p
   - Projeto de aplicação SAS
 
 # Como Clonar o Repositório
-* Para clonar este repositório em sua máquina local, use o seguinte comando:
-git clone https://github.com/EdsonST/Projetos.git
+* Para clonar este repositório em sua máquina local:
+  - No repositório, clique no botão "Code" (geralmente em verde).
+  - Escolha a opção HTTPS, SSH ou GitHub CLI.
+  - Clique em copiar ao lado do link.
+* Abra o terminal (no Windows, Mac ou Linux).  
+* Use o comando git clone:
+  - git clone https://github.com/EdsonST/Projetos
+
+Pronto! Agora você terá uma cópia local do repositório e poderá fazer alterações ou visualizar os arquivos.
 
 # Contato
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo através do meu email.
