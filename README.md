@@ -10,13 +10,13 @@ Este repositório contém uma variedade de projetos criados para aprimorar minha
 - **Machine Learning com Scikit-Learn**: Sistema básico de recomendação de filmes utilizando algoritmos de aprendizado de máquina.
 
 ## Estrutura do Repositório
-| Projeto                    | Descrição                                                                 |
+| Instituições               | Descrição                                                                 |
 |----------------------------|---------------------------------------------------------------------------|
 | **Digital Innovation One** | Projetos realizados durante os Bootcamps, separados por cada Bootcamp.    |
 | **FreeCodeCamp**           | Projetos de treinamento desenvolvidos durante cursos da plataforma.       |
 | **Dankie Code**            | Exercícios práticos realizados nos cursos da Dankie Code.                 |
 | **MIMO**                   | Projetos de treinamento desenvolvidos no app MIMO.                        |
-| **Full Stack Week**        | Projeto de aplicação SaaS desenvolvido durante a Full Stack Week.         |
+
 
 ## Tecnologias Utilizadas
 - **Linguagens**: Python, JavaScript, HTML, CSS
