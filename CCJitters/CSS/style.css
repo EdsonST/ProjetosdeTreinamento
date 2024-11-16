@@ -1,0 +1,111 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+html,
+body {
+  overflow-y: hidden;
+  overflow-x: hidden;
+  height: 100%;
+}
+
+.center {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 2%;
+}
+
+header {
+  height: 200px;
+  padding: 20px 0;
+}
+
+.logo {
+  width: 50%;
+}
+
+nav {
+  width: 50%;
+  text-align: right;
+  padding-top: 35px;
+}
+
+nav a {
+  color: #0b6b4f;
+  text-decoration: none;
+  font-weight: bold;
+  margin-right: 15px;
+}
+
+section .about {
+  height: calc(100% - 200px);
+  position: relative;
+}
+
+section .extras {
+  position: absolute;
+  bottom: -350px;
+  right: -350px;
+  width: 800px;
+  height: 800px;
+  background-color: #0b6b4f;
+  border-radius: 50%;
+}
+
+.extras img {
+  padding-top: 10px;
+}
+
+.social-medias {
+  position: absolute;
+  right: 5px;
+  top: 300px;
+}
+
+.social-medias img {
+  display: block;
+  max-width: 30px;
+  margin: 10px;
+}
+
+.text-about span {
+  color: #0b6b4f;
+}
+
+.text-about {
+  margin: 20px;
+}
+
+.text-about h1 {
+  font-size: 50px;
+}
+
+.text-about p {
+  margin: 20px 0;
+  max-width: 800px;
+  text-align: justify;
+}
+
+.text-about button {
+  background-color: #0b6b4f;
+  color: white;
+  border: 0;
+  border-radius: 100px;
+  width: 120px;
+  height: 40px;
+  cursor: pointer;
+  position: absolute;
+  margin-left: 550px;
+}
+
+.text-about img {
+  max-width: 40px;
+  border-radius: 50%;
+  right: 5px;
+  top: 300px;
+}
